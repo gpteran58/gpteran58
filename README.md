@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gpteran58
+- 👋 Hi, I’m G. Patrick Teran
 - 👀 I’m interested in ...html/css
 - 🌱 I’m currently learning ...at GA
 - 💞️ I’m looking to collaborate on ...
